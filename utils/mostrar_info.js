@@ -26,7 +26,7 @@ export function mostrarInfo() {
     console.log("   Acompanhamento financeiro anual");
     console.log("\nEDITAR AREAS DE ATUACAO");
     console.log("   Cadastra ate 4 areas de atuacao");
-    console.log("========================================================"); 
+    console.log("\========================================================\n"); 
 }
 
 // export const PI = 3.14; // Pode exportar variáveis também
